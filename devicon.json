@@ -2276,6 +2276,23 @@
       "color": "#61dafb",
       "aliases": [ ]
   },
+  {
+      "name": "testingicon3",
+      "tags": [
+          "framework"
+      ],
+      "versions": {
+          "svg": [
+              "original",
+              "plain"
+          ],
+          "font": [
+              "plain"
+          ]
+      },
+      "color": "#61dafb",
+      "aliases": [ ]
+  },
     {
         "name": "redhat",
         "tags": [
